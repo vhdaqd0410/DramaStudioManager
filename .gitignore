@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+database/drama.db
+error.log
+_diag.py
+_test.py
+_check.py
+.venv/
